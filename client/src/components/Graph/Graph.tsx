@@ -84,7 +84,6 @@ export function Graph({
 
 
 
-  
   return (
     <div className={styles.container}>
       <Bar
